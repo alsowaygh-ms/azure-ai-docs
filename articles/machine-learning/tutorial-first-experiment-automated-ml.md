@@ -99,7 +99,7 @@ Before you configure your experiment, upload the data file to your workspace in 
    1. In **Destination storage type**, select the default datastore that was automatically set up during your workspace creation: **workspaceblobstore**. You upload your data file to this location to make it available to your workspace.
    1. Select **Next**.
    1. In **File or folder selection**, select **Upload files or folder** > **Upload files**.
-   1. Choose the *bankmarketing_train.csv* file on your local computer. You downloaded this file as a [prerequisite](https://automlsamplenotebookdata.blob.core.windows.net/automl-sample-notebook-data/bankmarketing_train.csv).
+   1. Choose the *bank-full.csv* file on your local computer. You downloaded this file as a [prerequisite](https://archive.ics.uci.edu/static/public/222/bank+marketing.zip).
    1. Select **Next**.
 
       When the upload finishes, the **Data preview** area is populated based on the file type.
