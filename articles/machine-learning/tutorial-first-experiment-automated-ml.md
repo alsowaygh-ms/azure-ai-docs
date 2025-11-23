@@ -109,7 +109,7 @@ Before you configure your experiment, upload the data file to your workspace in 
       | Field | Description | Value for tutorial |
       |:---|:---|:---|
       | File format | Defines the layout and type of data stored in a file.| Delimited |
-      | Delimiter | One or more characters for specifying the boundary between&nbsp; separate, independent regions in plain text or other data streams. | Comma |
+      | Delimiter | One or more characters for specifying the boundary between&nbsp; separate, independent regions in plain text or other data streams. | Semicolon |
       | Encoding | Identifies what bit to character schema table to use to read your dataset. | UTF-8 |
       | Column headers | Indicates how the headers of the dataset, if any, are treated. | All files have same headers |
       | Skip rows | Indicates how many, if any, rows are skipped in the dataset. | None |
