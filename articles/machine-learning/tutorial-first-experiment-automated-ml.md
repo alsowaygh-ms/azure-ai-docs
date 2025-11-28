@@ -14,7 +14,7 @@ ms.custom: automl, build-2023
 #Customer intent: As a non-coding data scientist, I want to use automated machine learning techniques so that I can build a classification model.
 ---
 
-# Tutorial: Train a classification model with no-code AutoML in the Azure Machine Learning studio
+# Tutorial: Train a classification model with no-code AutoML in the Azure Machine Learning studio 
 
 In this tutorial, you learn how to train a classification model with no-code automated machine learning (AutoML) using Azure Machine Learning in the Azure Machine Learning studio. This classification model predicts whether a client subscribes to a fixed term deposit with a financial institution.
 
